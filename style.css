@@ -46,7 +46,8 @@ body {
     background-color: #348100; /* A darker shade of the primary color */
     border-color: #ffffff;
   }
-h1 {
+.title {
   @media (max-width: 768px) {
-    
+    font-size: 1.5em;
+  }
 }
