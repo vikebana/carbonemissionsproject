@@ -46,3 +46,7 @@ body {
     background-color: #348100; /* A darker shade of the primary color */
     border-color: #ffffff;
   }
+h1 {
+  @media (max-width: 768px) {
+    
+}
